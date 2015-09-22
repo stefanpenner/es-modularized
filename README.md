@@ -108,7 +108,7 @@ An example may be Symbols various symbols like search + species (https://people.
 
 ```js
 window.Promise === import Promise from 'promise';
-window.Promise = 1, import Promise from 'promise'; keeps working
+window.Promise = 1, import Promise from 'promise'; // keeps working
 Promise.all !=== import { all } from 'promise';
 ```
 
