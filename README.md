@@ -11,7 +11,7 @@
 ### bucket vs utility functions
 
 ```js
-import Object from 'object;
+import Object from 'object';
 
 // form 1:
 
